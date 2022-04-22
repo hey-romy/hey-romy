@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hey-romy, I'm a Product Designer from Brazil.
 - 👀 I’m interested in learning more about coding.
 - 🌱 I’m currently working on my portfolio, using Notion + Github + Vercel.
-- 💞️ I’m looking constructive feedback! I am not a developer, so my code my not always be perfect.
+- 💞️ I’m looking constructive feedback! I am not a developer, so my code might not always be perfect.
 - 📫 Feel free to reach me on LinkedIn!
 
 <!---
